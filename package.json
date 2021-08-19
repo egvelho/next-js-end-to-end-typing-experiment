@@ -1,7 +1,7 @@
 {
     "name": "next-js-end-to-end-typing-experiment",
     "version": "1.0.0",
-    "description": "",
+    "description": "Experimental boilerplate with end-to-end typing (without code generation) for universal Typescript Next.js app.",
     "author": "egvelho",
     "license": "GPL-3.0",
     "scripts": {
