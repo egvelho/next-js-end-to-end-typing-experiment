@@ -1,6 +1,9 @@
 {
     "name": "next-js-end-to-end-typing-experiment",
     "version": "1.0.0",
+    "description": "",
+    "author": "egvelho",
+    "license": "GPL-3.0",
     "scripts": {
         "dev": "npm run ts-node -- ./app/index.ts",
         "start": "sh -c \"env NODE_ENV=production npm run ts-node -- -T ./app/index.ts\"",
