@@ -1,3 +1,3 @@
-# next-js-end-to-end-typing-experience
+# next-js-end-to-end-typing-experiment
 
-Boilerplate para app universal em Typescript utilizando NextJS. O diferencial deste boilerplate é uma proposta de end-to-end typing sem qualquer geração de código.
+Experimental boilerplate with end-to-end typing (without code generation) for universal Typescript Next.js app.
