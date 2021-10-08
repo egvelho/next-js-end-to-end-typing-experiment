@@ -4,5 +4,4 @@ This is and initial experiment for a programmer-friend fullstack development fra
 
 This way, and without code generation, that endpoint can be acessed in the client or server by API calls, in a way that the auth is also abstracted by the framework (hooking the request cookies or executing context through ```cls-hooked```). Please refer to ```pages/api``` and ```app/http``` to understand the concepts.
 
-
 In the end, it was overcomplex and hard to maintain, with very bloated bundles and security-wise problems. Still, it was a fun experiment.
